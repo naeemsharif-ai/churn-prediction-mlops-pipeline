@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+mlruns/
+*.db
+.env
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
